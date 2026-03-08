@@ -1,0 +1,45 @@
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Environment files
+
+.env
+.env.*
+
+# Build / package artifacts
+
+*.tar
+*.gz
+*.zip
+
+# Editor directories and files
+
+.vscode/
+.idea/
+
+# OS generated files
+
+*.cache
+*.bak
+
+# Bash history or local configs
+
+*.history
+
+# Ignore local proxy lists (optional)
+
+proxy_list_private.txt

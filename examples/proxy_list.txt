@@ -1,0 +1,148 @@
+# Example Proxy List
+
+# Format:
+
+# <proxy_type> <ip_address> <port>
+
+# SOCKS proxies
+
+socks5 127.0.0.1 9050
+socks5 192.168.1.10 1080
+
+# SOCKS4 proxies
+
+socks4 192.168.1.20 1080
+socks4 10.0.0.15 9050
+
+# HTTP proxies
+
+http 192.168.1.30 8080
+http 10.0.0.20 3128
+
+# Example Free US Proxies
+
+
+| Proxy Type | Host (IP:Port)      | Hostname / Organization (ISP) | Latency  | Uptime |
+| ---------- | ------------------- | ----------------------------- | -------- | ------ |
+| SOCKS5     | 209.126.1.101:65373 | US Datacenter (Unknown ISP)   | ~102 ms  | 99%    |
+| HTTP       | 45.194.53.115:80    | US Datacenter                 | ~11 ms   | 100%   |
+| HTTP       | 199.34.228.233:80   | US Datacenter                 | ~4 ms    | 100%   |
+| SOCKS4     | 154.38.189.6:10000  | Orangeburg Datacenter         | ~122 ms  | 77%    |
+| HTTP       | 68.183.98.179:80    | North Bergen Datacenter       | ~117 ms  | 34%    |
+| HTTP       | 161.35.60.102:80    | North Bergen Datacenter       | ~617 ms  | 26%    |
+| HTTP       | 47.251.74.38:999    | Alibaba Cloud LLC             | ~2344 ms | 28%    |
+| HTTP       | 47.90.167.27:1000   | Alibaba.com LLC               | ~2259 ms | 43%    |
+| HTTP       | 47.252.18.37:8060   | Alibaba Cloud LLC             | ~2234 ms | 45%    |
+| HTTP       | 34.216.224.9:20769  | Amazon.com Inc                | ~812 ms  | 4%     |
+
+
+
+185.200.191.143:8118
+5.78.129.53:80
+23.247.136.254:80
+89.117.145.245:3128
+4.156.78.45:80
+32.223.6.94:80
+50.122.86.118:80
+50.172.150.134:80
+18.226.200.222:51568
+38.147.98.190:8080
+54.193.116.236:8999
+198.49.68.80:80
+155.94.241.134:3128
+192.73.244.36:80
+
+
+
+ 
+SPYS.ONE/EN/
+	
+Free proxy list
+	
+Proxy list by country
+	
+Anonymous free proxy
+	
+HTTPS/SSL proxy
+	
+SOCKS proxy list
+Proxy by ASN/ORG
+	
+Proxy by cities
+	
+Proxy by ports
+	
+HTTP proxy list
+	
+IPinfo
+	
+FineProxy.org
+Free proxy lists United States (US). USA proxy servers.
+	See also North American proxies Show
+ANM SSL Port Type Sort
+	787 proxies	Permanent link to this page: https://spys.one/free-proxy-list/US/
+
+Proxy address:port	Proxy type	Anonymity*	Country (city/region)	Hostname/ORG	Latency**	Speed***	Uptime	Check date (GMT+03)
+150.136.163.51:80	HTTP	HIA	US Ashburn (Virginia)	150.136.163.51 (ORACLE-BMC-31898)	21.698	
+	40% (79) -	08-mar-2026 09:06 (2 hours ago)
+20.81.205.173:80	HTTP	HIA	US Boydton (Virginia)	20.81.205.173 (MICROSOFT-CORP-MSN-AS-BLOCK)	23.598	
+	46% (100) -	08-mar-2026 06:50 (4 hours ago)
+66.135.16.53:80	HTTP	HIA	US Piscataway (New Jersey)	66-135-16-53.constant.com (AS-VULTR)	13.679	
+	32% (109) -	08-mar-2026 06:21 (5 hours ago)
+13.92.20.105:9080	HTTP	HIA	US Washington (Virginia)	13.92.20.105 (MICROSOFT-CORP-MSN-AS-BLOCK)	8.559	
+	40% (56) -	08-mar-2026 00:50 (10 hours ago)
+108.161.135.118:80	HTTP	HIA	US	teacher-route.tautsage.net (TEKTONIC)	14.756	
+	26% (134) -	08-mar-2026 00:22 (11 hours ago)
+70.186.128.126:8080	HTTP (Mikrotik)	NOA	US Oklahoma City (Oklahoma)	70.186.128.126 (ASN-CXA-ALL-CCI-22773-RDC)	16.605	
+	11% (607) -	08-mar-2026 00:18 (11 hours ago)
+50.210.166.34:80	HTTP	HIA	US Birmingham (Michigan)	50.210.166.34 (COMCAST-7922)	8.769	
+	39% (78) +	08-mar-2026 00:00 (11 hours ago)
+34.44.49.215:80	HTTP	ANM	US Council Bluffs (Iowa) !!!	215.49.44.34.bc.googleusercontent.com (GOOGLE-CLOUD-PLATFORM)	0.649	
+	95% (234) +	07-mar-2026 23:41 (12 hours ago)
+34.135.166.24:80	HTTP	HIA	US Council Bluffs (Iowa)	24.166.135.34.bc.googleusercontent.com (GOOGLE-CLOUD-PLATFORM)	2.98	
+	23% (910) +	07-mar-2026 23:40 (12 hours ago)
+198.23.189.151:8118	HTTP	HIA	US Buffalo (New York)	198-23-189-151-host.colocrossing.com (AS-COLOCROSSING)	6.378	
+	5% (24) -	07-mar-2026 23:25 (12 hours ago)
+167.99.124.118:80	HTTP	ANM	US Clifton (New Jersey)	167.99.124.118 (DIGITALOCEAN-ASN)	6.25	
+	25% (1494) -	07-mar-2026 23:02 (12 hours ago)
+167.71.182.192:80	HTTP	HIA	US Clifton (New Jersey)	167.71.182.192 (DIGITALOCEAN-ASN)	0.543	
+	34% (46) +	07-mar-2026 23:00 (12 hours ago)
+162.240.19.30:80	HTTP	HIA	US !!!	162-240-19-30.unifiedlayer.com (UNIFIEDLAYER-AS-1)	16.868	
+	28% (156) -	07-mar-2026 22:54 (12 hours ago)
+154.17.27.79:21266	HTTP	HIA	US Los Angeles (California) !!!	Host-By.DMIT.com (DMIT)	7.771	
+	23% (18) -	07-mar-2026 22:53 (12 hours ago)
+152.26.229.52:9443	HTTP	ANM	US Oxford (North Carolina) !!!	152.26.229.52 (NCREN)	0.472	
+	93% (736) -	07-mar-2026 22:41 (13 hours ago)
+143.198.135.176:80	HTTP	HIA	US Santa Clara (California)	143.198.135.176 (DIGITALOCEAN-ASN)	10.294	
+	50% (113) -	07-mar-2026 22:38 (13 hours ago)
+108.170.12.13:80	HTTP	HIA	US Phoenix (Arizona) !!!	108.170.12.13 (SSASN2)	18.701	
+	10% (80) -	07-mar-2026 22:33 (13 hours ago)
+137.184.96.68:80	HTTP	HIA	US North Bergen (New Jersey)	137.184.96.68 (DIGITALOCEAN-ASN)	11.557	
+	41% (95) -	07-mar-2026 22:33 (13 hours ago)
+135.148.120.6:80	HTTP	HIA	US	vps-76609c23.vps.ovh.us (OVH SAS)	17.077	
+	30% (134) -	07-mar-2026 22:31 (13 hours ago)
+23.95.242.79:3128	HTTP	ANM	US Dallas (Texas)	mail6.zalameta.com (AS-COLOCROSSING)	1.774	
+	83% (19) +	07-mar-2026 22:15 (13 hours ago)
+167.71.245.33:3128	HTTP	HIA	US Clifton (New Jersey)	167.71.245.33 (DIGITALOCEAN-ASN)	4.257	
+	7% (4) -	07-mar-2026 21:43 (14 hours ago)
+12.232.227.99:8080	HTTP (Mikrotik)	NOA	US	12.232.227.99 (ATT-INTERNET4)	4.851	
+	17% (45) -	07-mar-2026 20:52 (14 hours ago)
+20.96.194.191:3128	HTTP (Squid)	NOA	US Boydton (Virginia)	20.96.194.191 (MICROSOFT-CORP-MSN-AS-BLOCK)	25.036	
+	15% (19) -	07-mar-2026 20:36 (15 hours ago)
+75.84.71.14:80	HTTP	HIA	US Inglewood (California)	syn-075-084-071-014.res.spectrum.com (TWC-20001-PACWEST)	9.289	
+	34% (55) -	07-mar-2026 17:50 (17 hours ago)
+45.76.10.39:8118	HTTP	HIA	US Piscataway (New Jersey)	45.76.10.39.vultrusercontent.com (AS-VULTR)	10.409	
+	5% (7) -	07-mar-2026 17:20 (18 hours ago)
+24.72.215.236:8246	HTTP (Mikrotik)	NOA	US Schuyler (Nebraska)	24.72.215.236 (VYVE-BROADBAND)	8.043	
+	11% (62) -	07-mar-2026 17:04 (18 hours ago)
+207.177.122.144:8080	HTTP (Mikrotik)	NOA	US Burlington (Iowa)	207.177.122.144 (AUREON-5056)	4.796	
+	9% (37) -	07-mar-2026 16:46 (18 hours ago)
+104.230.113.255:80	HTTP	HIA	US Hudson (Ohio)	syn-104-230-113-255.res.spectrum.com (TWC-10796-MIDWEST)	1.06	
+	23% (47) -	07-mar-2026 15:27 (20 hours ago)
+108.165.174.99:1080	SOCKS5	HIA	US Orem (Utah)	108.165.174.99 (ADCIL-ASN-01)	4.246	
+	40% (2) -	07-mar-2026 09:31 (1 days ago)
+52.173.28.127:8080	HTTP (Squid)	NOA	US Des Moines (Iowa) !!!	52.173.28.127 (MICROSOFT-CORP-MSN-AS-BLOCK)	24.618	
+	5% (41) -	07-mar-2026 05:25 (1 days ago)
+
+*NOA - non anonymous proxy, ANM - anonymous proxy server, HIA - high anonymous proxy. **Latency - lower = better. ***Relative to another servers. HTTPS - HTTP proxy with SSL support.
+Free proxy list © 2008-2024	
